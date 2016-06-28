@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oicalls</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Log Out</string>
+    <string name="login_view">Enter Login Credentials</string>
+    <string name="login_username">Enter Username</string>
+    <string name="login_password">Password</string>
+    <string name="action_sign_in">Sign In or Login</string>
+    <string name="title_activity_invalid_login">InvalidLoginActivity</string>
+    <string name="title_activity_dialer">Dialer</string>
+    <string name="action_compose">action_compose</string>
+    <string name="action_one">1</string>
+    <string name="action_two">2</string>
+    <string name="action_three">3</string>
+    <string name="action_four">4</string>
+    <string name="action_five">5</string>
+    <string name="action_six">6</string>
+    <string name="action_seven">7</string>
+    <string name="action_eight">8</string>
+    <string name="action_nine">9</string>
+    <string name="action_zero">0</string>
+    <string name="action_asterisk">*</string>
+    <string name="action_hash">#</string>
+    <string name="caller_id"></string>
+    <string name="action_caller">Call</string>
+    <string name="action_clear">Clear</string>
+    <string name="logout_caller">logout</string>
+    <string name="phone_contacts">Contacts</string>
+    <string name="call_logs">Call Logs</string>
+    <string name="title_activity_call_logs">CallLogs</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="title_activity_call_out">CallOut</string>
+
+</resources>
