@@ -36,7 +36,7 @@ public class MainActivity extends ActionBarActivity implements OnClickListener,O
 
 	private static final String TAG = "MainActivity";
 	public final static String LOGIN_USERNAME = "me.cs.oicalls.username";
-	public final static String ipString="104.238.74.138";
+	public final static String ipString="*.*.*.*";
 	private String eUsername = null;
 	private String ePassword = null;
 	SharedPreferences prefs;
